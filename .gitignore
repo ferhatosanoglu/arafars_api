@@ -2,7 +2,7 @@
 /dist
 /node_modules
 /src/environments/environment.ts
-
+.env
 # Logs
 logs
 *.log
